@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#0A0D12"/>
+  <!-- A floodlight pool over a D. The mark reads at 16px, which is the only
+       size a favicon is ever actually seen at. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4D7CFE"/>
+      <stop offset="1" stop-color="#33C48D"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 12h9c7.2 0 12 4.7 12 12s-4.8 12-12 12h-9V12Zm6.5 5.4v13.2H23c4 0 6.4-2.5 6.4-6.6s-2.4-6.6-6.4-6.6h-2.5Z" fill="url(#g)"/>
+  <circle cx="38.5" cy="11.5" r="3" fill="#FFF2CC"/>
+</svg>
